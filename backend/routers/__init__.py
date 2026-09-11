@@ -1,0 +1,12 @@
+from backend.routers.events import router as events_router
+from backend.routers.venues import router as venues_router
+from backend.routers.resources import router as resources_router
+from backend.routers.volunteers import router as volunteers_router
+from backend.routers.schedule import router as schedule_router
+from backend.routers.conflicts import router as conflicts_router
+from backend.routers.tasks import router as tasks_router
+from backend.routers.readiness import router as readiness_router
+from backend.routers.approvals import router as approvals_router
+from backend.routers.simulation import router as simulation_router
+from backend.routers.notifications import router as notifications_router
+from backend.routers.system import router as system_router

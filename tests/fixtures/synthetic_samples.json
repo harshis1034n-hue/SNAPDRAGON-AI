@@ -1,0 +1,23 @@
+{
+  "syntheticStudent": {
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@campus.example.test",
+    "phone": "+91 98765 43210",
+    "studentId": "STU202600123",
+    "portalPassword": "TempPassword#2026!",
+    "apiKey": "sk-demo-SYNTHETIC-ONLY-1234567890abcdef",
+    "paymentCard": "4532019283742103",
+    "privateMessage": "Internal project discussion — do not share."
+  },
+  "benignSamples": [
+    "Welcome to the general university symposium held in Hall B.",
+    "Please visit https://qualcomm.com or https://hp.com for general information.",
+    "Order confirmation sequence # 9988776655443322 is not a credit card.",
+    "Today's weather forecast predicts 24 degrees Celsius in Hyderabad."
+  ],
+  "malformedCards": [
+    "1234567812345671",
+    "1111222233334445",
+    "9999888877776665"
+  ]
+}

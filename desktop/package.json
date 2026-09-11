@@ -1,0 +1,9 @@
+{
+  "name": "snapsafe-ai-desktop",
+  "version": "1.0.0",
+  "description": "SnapSafe AI Desktop App for Snapdragon AI PCs",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron ."
+  }
+}

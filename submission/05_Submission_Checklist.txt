@@ -1,0 +1,43 @@
+============================================================
+SNAPSAFE AI — UNSTOP COMPETITION SUBMISSION CHECKLIST
+Snapdragon(R) AI Lab Build & Present Challenge - 2026
+============================================================
+
+FIELD 1: Project Title
+VALUE:
+SnapSafe AI
+
+FIELD 2: Brief Project Description
+ATTACHMENT FILE:
+submission/01_Brief_Project_Description.pdf
+
+FIELD 3: GitHub Repository Link
+VALUE:
+https://github.com/YOUR_GITHUB_USERNAME/snapsafe-ai
+(Replace with your actual public repository URL)
+
+FIELD 4: Short Pitch Presentation in PDF
+ATTACHMENT FILE:
+submission/02_SnapSafe_AI_Short_Pitch.pdf
+
+FIELD 5: Short Pitch Presentation in PPT
+ATTACHMENT FILE:
+submission/03_SnapSafe_AI_Short_Pitch.pptx
+
+FIELD 6: Snapdragon Laptop Availability
+STATUS:
+Confirm truthfully on the Unstop submission form according to your hardware possession.
+
+FIELD 7: Snapdragon Laptop Eligibility Confirmation
+STATUS:
+Check only if you satisfy the organizer's hardware eligibility criteria.
+
+============================================================
+ATTACHED ARTIFACTS VERIFICATION:
+============================================================
+[X] 01_Brief_Project_Description.pdf    (Project summary, problem, solution, architecture)
+[X] 02_SnapSafe_AI_Short_Pitch.pdf       (10-slide competition pitch presentation)
+[X] 03_SnapSafe_AI_Short_Pitch.pptx      (16:9 widescreen PowerPoint presentation)
+[X] 04_90_Second_Demo_Script.pdf        (Exact 90-second competition pitch script)
+[X] 05_Submission_Checklist.txt          (Unstop form mapping & field checklist)
+[X] 06_GitHub_Repository_Checklist.md   (Clean repository verification checklist)
