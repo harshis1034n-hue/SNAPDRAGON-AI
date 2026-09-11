@@ -2,12 +2,15 @@
 ### “See it. Detect it. Protect it. Before you share it.”
 
 [![Snapdragon AI PC](https://img.shields.io/badge/Platform-HP%20Snapdragon%20AI%20PC-rose)](https://www.qualcomm.com/products/mobile/snapdragon/pcs-and-tablets)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-snapdragon--ai.vercel.app-black?logo=vercel)](https://snapdragon-ai.vercel.app)
 [![Data Egress](https://img.shields.io/badge/Cloud%20Data%20Egress-0%20Bytes%20(Local)-emerald)](https://github.com)
 [![Inference Mode](https://img.shields.io/badge/Inference-100%25%20On--Device%20(NPU%20Ready)-blue)](https://github.com)
-[![Test Suite](https://img.shields.io/badge/Tests-21%20Passed-brightgreen)](https://github.com)
+[![Test Suite](https://img.shields.io/badge/Tests-25%20Passed-brightgreen)](https://github.com)
 
 > **Prepared for the Snapdragon AI Lab Build & Present Challenge**  
-> Designed and architected for HP PCs powered by Snapdragon X-series processors.
+> Designed and architected for HP PCs powered by Snapdragon X-series processors.  
+> **Live Production Website:** [https://snapdragon-ai.vercel.app](https://snapdragon-ai.vercel.app)  
+> **GitHub Repository:** [https://github.com/harshis1034n-hue/SNAPDRAGON-AI](https://github.com/harshis1034n-hue/SNAPDRAGON-AI)
 
 ---
 
