@@ -201,7 +201,7 @@ export const App: React.FC = () => {
       {/* Footer */}
       <footer className="border-t border-slate-800/80 bg-slate-950/80 py-4 text-center text-xs text-slate-500 font-mono">
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-          <span>SnapSafe AI • Snapdragon AI Lab Build & Present Challenge</span>
+          <span>Snapdragon AI Demo • Snapdragon AI Lab Build & Present Challenge</span>
           <span className="text-emerald-400">● 100% On-Device Privacy Firewall • 0 Bytes Cloud Egress</span>
         </div>
       </footer>

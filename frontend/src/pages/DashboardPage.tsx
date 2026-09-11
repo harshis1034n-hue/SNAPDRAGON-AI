@@ -52,7 +52,7 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
               PRIVACY FIREWALL FOR THE AI PC
             </div>
             <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
-              SnapSafe <span className="text-rose-500">AI</span>
+              Snapdragon <span className="text-rose-500">AI Demo</span>
             </h1>
             <p className="text-base sm:text-lg text-slate-300 font-normal">
               Private AI protection for your screen.

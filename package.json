@@ -1,7 +1,7 @@
 {
-  "name": "snapsafe-ai",
+  "name": "snapdragon-ai-demo",
   "version": "1.0.0",
-  "description": "SnapSafe AI - On-Device Screen Privacy Firewall for Snapdragon AI PCs",
+  "description": "Snapdragon AI Demo - On-Device Screen Privacy Firewall for Snapdragon AI PCs",
   "private": true,
   "scripts": {
     "dev": "vite",

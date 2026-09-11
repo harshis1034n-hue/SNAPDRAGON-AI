@@ -44,3 +44,5 @@ yarn-error.log*
 # Large temporary captures
 temp_capture*.png
 test_output*.png
+
+.vercel
