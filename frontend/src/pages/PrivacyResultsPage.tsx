@@ -28,9 +28,10 @@ export const PrivacyResultsPage: React.FC<PrivacyResultsPageProps> = ({
   onProceedToSafeShare,
   onRescan,
 }) => {
-  const [entities, setEntities] = useState<DetectedEntity[]>(scanResult.entities);
+  const safeEntities = scanResult?.entities || [];
+  const [entities, setEntities] = useState<DetectedEntity[]>(safeEntities);
   const [selectedEntityId, setSelectedEntityId] = useState<string | null>(
-    scanResult.entities.length > 0 ? scanResult.entities[0].id : null
+    safeEntities.length > 0 ? safeEntities[0].id : null
   );
 
   const selectedEntity = entities.find((e) => e.id === selectedEntityId) || null;
@@ -153,7 +154,7 @@ export const PrivacyResultsPage: React.FC<PrivacyResultsPageProps> = ({
                 Privacy Analysis
               </h3>
               <div className="text-xs font-mono font-bold text-rose-400">
-                Risk: {scanResult.riskAssessment.privacyRiskRaw} / 100
+                Risk: {scanResult?.riskAssessment?.privacyRiskRaw ?? 0} / 100
               </div>
             </div>
 
